@@ -1,5 +1,7 @@
 # Welcome to PaintsTransfer-Euclid !
 
+**We are focusing on interactivity, possibility and creativity.**
+
 First of all, why not spend 5 minutes to try it yourself!
 
 http://paintstransfer.com
