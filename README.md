@@ -174,6 +174,8 @@ Here is a comparison:
 
 # The Style Transfer
 
+**NOTICE!! This feature is NOT stable currently !!**
+
 Here is an example:
 
 ![violet](https://raw.githubusercontent.com/lrisviel/markdown/master/github/violet.png)
@@ -184,6 +186,19 @@ Here is how I create it:
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st0.png)
 
-Another [example](https://raw.githubusercontent.com/lrisviel/markdown/master/github/or2.png)
+Some other examples:
+
+Origins:
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/or2.png" width = "200" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/or3.png" width = "200" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/or4.png" width = "200" />
+
+Results:
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st1.png)
+
+![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st2.png)
+
+![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
+
