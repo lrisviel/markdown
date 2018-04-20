@@ -137,3 +137,11 @@ Then, we enable the **Outline Emphasizer** and we can get this result:
 Here is a comparison:
 
 ![com01](https://raw.githubusercontent.com/lrisviel/markdown/master/github/com01.jpg)
+
+Another example:
+
+![ane0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane0.jpg)
+
+![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.jpg)
+
+
