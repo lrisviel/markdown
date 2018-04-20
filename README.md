@@ -22,7 +22,7 @@ The AI can transfer illustrations' style.
 
 **This github page contains many gif and png images, and it is a better choice to wait your browser before reading it.**
 
-To introduce this feature, let's begin with a kimono sketch of Shiki.
+To introduce this feature, let's begin with a kimono sketch of Shiki. The sketch is from google image.
 
 ![gif0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/gif0.gif)
 
@@ -61,5 +61,11 @@ Ok, here we present a best-practice color list for you:
 ![display4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display4.png?t=233)
 
 # New Feature: The Controlable Shading
+
+Let's begin with one of the promotion sketch of our friend paintschainer *(paintschainer.preferred.tech)*. You can find this sketch here:
+
+![dis5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.png)
+
+Here is a overview of this feature:
 
 ![shading](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shading.png)
