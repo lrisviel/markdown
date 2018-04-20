@@ -262,3 +262,6 @@ Here is some example when there are LOTS of user hints:
 
 ![more](https://raw.githubusercontent.com/lrisviel/markdown/master/github/o16.png)
 
+# Lets finish with this..
+
+![bad](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png)
