@@ -112,6 +112,8 @@ As we can see, the skin rendering is very hard for AI. But we have a new Skin En
 
 ![sk0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk0.png)
 
+And some other similar results:
+
 ![sk1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk1.png)
 
 ![sk2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.png)
