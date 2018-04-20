@@ -26,4 +26,4 @@ The new tool, color anchor, enable you to control the color of your painting wit
 
 After this step, you should get a color draft like this:
 
-![display1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display1.png）
+![display1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display1.png)
