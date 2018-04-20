@@ -138,9 +138,11 @@ Here is a comparison:
 
 ![com01](https://raw.githubusercontent.com/lrisviel/markdown/master/github/com01.jpg)
 
-Another example:
+Another example with **Outline Emphasizer**:
 
 ![ane0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane0.png)
+
+Without **Outline Emphasizer**:
 
 ![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.png)
 
