@@ -25,3 +25,5 @@ The AI can transfer illustrations' style.
 The new tool, color anchor, enable you to control the color of your painting with great stability. In most cases, you can use this tool to control the global color of the painting. **In most cases, casting the color anchors should be your first step.**
 
 After this step, you should get a color draft like this:
+
+![display1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display1.png）
