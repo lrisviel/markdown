@@ -190,9 +190,7 @@ Some other examples:
 
 Origins:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/or2.png" width = "200" />
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/or3.png" width = "200" />
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/or4.png" width = "200" />
+![ors](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.png)
 
 Results:
 
