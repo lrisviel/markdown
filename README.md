@@ -136,4 +136,4 @@ Then, we enable the **Outline Emphasizer** and we can get this result:
 
 Here is a comparison:
 
-![com01](https://raw.githubusercontent.com/lrisviel/markdown/master/github/com01.png)
+![com01](https://raw.githubusercontent.com/lrisviel/markdown/master/github/com01.jpg)
