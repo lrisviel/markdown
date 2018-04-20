@@ -84,6 +84,8 @@ Then you use these four step to get the shadow.
 
 ![shadowhints](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadowhints.png)
 
+![sa0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sa0.png)
+
 We can also change the dress into black, and use similar method to reach a highlight shading:
 
 ![shadow2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadow2.png)
