@@ -64,7 +64,7 @@ Ok, here we present a best-practice color list for you:
 
 Let's begin with one of the promotion sketch of our friend paintschainer *(paintschainer.preferred.tech)*. You can find this sketch here:
 
-![dis5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.png)
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.png" width = "500" height = "300" />
 
 Here is a overview of this feature:
 
