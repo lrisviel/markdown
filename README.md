@@ -98,4 +98,14 @@ Some other similar examples:
 
 ![se1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se1.png)
 
-# New Feature: The Separated Skin Engine
+# New Feature: The New Skin Engine
+
+Let us begin with a sketch from google, and this sketch has relative large skin area:
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sketch.original.png" height = "300" />
+
+And here is the result from **PaintsChainer** :
+
+![pc](https://raw.githubusercontent.com/lrisviel/markdown/master/github/pc.png)
+
+As we can see, the skin rendering is very hard for AI. But we have a new Skin Engine, and here is our result.
