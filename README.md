@@ -21,3 +21,5 @@ The AI can transfer illustrations' style.
 **This github page contains many gif and png images, and it is a better choice to wait your browser before reading it.**
 
 ![gif0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/gif0.gif)
+
+The new tool, color anchor, enable you to control the color of your painting with great stability. In most cases, you can use this tool to control the global color of the painting.
