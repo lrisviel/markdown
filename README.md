@@ -16,3 +16,6 @@ The AI can transfer illustrations' style.
 
 ![web_preview](https://raw.githubusercontent.com/lrisviel/markdown/master/github/0.png)
 
+# New Feature: The Geometric Color Anchor
+
+![gif0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/gif0.gif)
