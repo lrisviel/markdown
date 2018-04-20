@@ -75,3 +75,8 @@ Here is a overview of this feature:
 Here we explain what happen. First of all, you just make a normal paintstransfer painting, like this:
 
 ![screen0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/screen0.png)
+
+Then we select colors for shadow.
+
+![colorshadow](https://raw.githubusercontent.com/lrisviel/markdown/master/github/colorshadow.png)
+
