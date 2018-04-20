@@ -140,8 +140,8 @@ Here is a comparison:
 
 Another example:
 
-![ane0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane0.jpg)
+![ane0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane0.png)
 
-![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.jpg)
+![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.png)
 
 
