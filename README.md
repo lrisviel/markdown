@@ -125,3 +125,14 @@ And some other similar results:
 Sometimes you may want to emphasize the lines so as to achieve a natural painting. Then we have developed the standalone **Outline Emphasizer**:
 
 ![ous](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ous.png)
+
+Let begin with a sample of sakura:
+
+![sakura](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura.png)
+
+Then, we enable the **Outline Emphasizer** and we can get this result:
+
+![sakura2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura2.png)
+
+Then, we change the colors and get different results:
+
