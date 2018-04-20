@@ -119,3 +119,9 @@ And some other similar results:
 ![sk2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.png)
 
 ![sk3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk3.png)
+
+# New Feature: The Outline Emphasizer
+
+Sometimes you may want to emphasize the lines so as to achieve a natural painting. Then we have developed the standalone **Outline Emphasizer**:
+
+
