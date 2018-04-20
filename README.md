@@ -200,3 +200,25 @@ Results:
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
 
+# Extream Hint Density Holder
+
+Our new engine can hold as much as possible hints, without causing disordering or blurring. 
+
+Here is some example when there are LOTS of user hints:
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e0.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e1.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e2.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e3.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e4.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e5.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e6.png)
+
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.png)
+
