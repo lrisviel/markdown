@@ -41,3 +41,14 @@ Then, you add hint colors and get the final result, like this:
 Here is a gif version of the process:
 
 ![gif1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/gif1.gif)
+
+In the same way, you can get many Shiki with different color, such as:
+
+![s1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/s1.png)
+
+![s2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/s2.png)
+
+![s3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/s3.png)
+
+![s4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/s4.png)
+
