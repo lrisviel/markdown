@@ -91,3 +91,9 @@ We can also change the dress into black, and use similar method to reach a highl
 ![shadow2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadow2.png)
 
 ![ssa](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ssa.png)
+
+Some other similar examples:
+
+![se0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se0.png)
+
+![se1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se1.png)
