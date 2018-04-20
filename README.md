@@ -124,4 +124,4 @@ And some other similar results:
 
 Sometimes you may want to emphasize the lines so as to achieve a natural painting. Then we have developed the standalone **Outline Emphasizer**:
 
-
+![ous](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ous.png)
