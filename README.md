@@ -134,5 +134,6 @@ Then, we enable the **Outline Emphasizer** and we can get this result:
 
 ![sakura2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura2.png)
 
-Then, we change the colors and get different results:
+Here is a comparison:
 
+![com01](https://raw.githubusercontent.com/lrisviel/markdown/master/github/com01.png)
