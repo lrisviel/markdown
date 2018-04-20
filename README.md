@@ -54,3 +54,6 @@ After reading these, you may ask:
 
 *"Oh, you are just good at color selection! But I am blind to these color and I have never learnt to painting! How can I select right color?"*
 
+Ok, here we present a best-practice color list for you:
+
+
