@@ -30,7 +30,7 @@ After this step, you should get a color draft like this:
 
 Then, after you finishing your color draft, you should shift to your **Accurate Point** tool. 
 
-![display2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display2.png)
+![display2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display2.png?t=233)
 
 Then, you add hint colors and get the final result, like this:
 
