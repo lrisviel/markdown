@@ -149,3 +149,11 @@ Without **Outline Emphasizer**:
 Here is a comparison:
 
 ![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.png)
+
+# New Feature: The Stabilized Palette Prediction for Lazy Users
+
+**Lazy** users are those who do not want to input any instructions. For those users, we updated our core models so as to make the results reasonable when there are no user hints.
+
+**All below results are achieved without any human hints:**
+
+
