@@ -190,7 +190,7 @@ Some other examples:
 
 Origins:
 
-![ors](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.png)
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.png" height = "180" />
 
 Results:
 
