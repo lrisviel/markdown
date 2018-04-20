@@ -146,4 +146,6 @@ Without **Outline Emphasizer**:
 
 ![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.png)
 
+Here is a comparison:
 
+![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.jpg)
