@@ -200,7 +200,7 @@ Results:
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
 
-# Extream Hint Density Holder
+# Extreme Hint Density Holder
 
 Our new engine can hold as much as possible hints, without causing disordering or blurring. 
 
