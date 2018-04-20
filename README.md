@@ -150,10 +150,24 @@ Here is a comparison:
 
 ![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.png)
 
-# New Feature: The Stabilized Palette Prediction for Lazy Users
+# New Feature: The Palette Prediction for Lazy Users
+
+**NOTICE!! This feature is NOT stable currently !!**
 
 **Lazy** users are those who do not want to input any instructions. For those users, we updated our core models so as to make the results reasonable when there are no user hints.
 
-**All below results are achieved without any human hints:**
+**All below results are achieved without human hints, or with minor detailed hints:**
 
+![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.png)
 
+![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.png)
+
+![w2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w2.png)
+
+![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.png)
+
+![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.png)
+
+![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.png)
+
+![w6](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w6.png)
