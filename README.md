@@ -27,3 +27,11 @@ The new tool, color anchor, enable you to control the color of your painting wit
 After this step, you should get a color draft like this:
 
 ![display1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display1.png)
+
+Then, after you finishing your color draft, you should shift to your **Accurate Point** tool. 
+
+![display2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display2.png)
+
+Then, you add hint colors and get the final result, like this:
+
+![display3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display3.png)
