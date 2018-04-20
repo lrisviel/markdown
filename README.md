@@ -148,4 +148,4 @@ Without **Outline Emphasizer**:
 
 Here is a comparison:
 
-![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.jpg)
+![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.png)
