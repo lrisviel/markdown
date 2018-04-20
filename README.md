@@ -59,3 +59,5 @@ After reading these, you may ask:
 Ok, here we present a best-practice color list for you:
 
 ![display4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display4.png?t=233)
+
+# New Feature: The Controlable Shading
