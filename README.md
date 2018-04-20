@@ -80,3 +80,7 @@ Then we select colors for shadow.
 
 ![colorshadow](https://raw.githubusercontent.com/lrisviel/markdown/master/github/colorshadow.png)
 
+Then you use these four step to get the shadow.
+
+![shadowhints](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadowhints.png)
+
