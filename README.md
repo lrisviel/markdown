@@ -97,3 +97,5 @@ Some other similar examples:
 ![se0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se0.png)
 
 ![se1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se1.png)
+
+# New Feature: The Separated Skin Engine
