@@ -109,3 +109,11 @@ And here is the result from **PaintsChainer** :
 ![pc](https://raw.githubusercontent.com/lrisviel/markdown/master/github/pc.png)
 
 As we can see, the skin rendering is very hard for AI. But we have a new Skin Engine, and here is our result.
+
+![sk0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk0.png)
+
+![sk1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk1.png)
+
+![sk2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.png)
+
+![sk3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk3.png)
