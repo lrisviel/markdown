@@ -50,3 +50,7 @@ In the same way, you can get many Shiki with different color, such as:
 
 ![s3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh3.png)
 
+After reading these, you may ask: 
+
+*"Oh, you are just good at color selection! But I am blind to these color and I have never learnt to painting! How can I select right color?"*
+
