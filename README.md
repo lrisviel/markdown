@@ -37,3 +37,7 @@ Then, after you finishing your color draft, you should shift to your **Accurate 
 Then, you add hint colors and get the final result, like this:
 
 ![display3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display3.png)
+
+Here is a gif version of the process:
+
+![gif1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/gif1.gif)
