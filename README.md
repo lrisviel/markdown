@@ -62,10 +62,16 @@ Ok, here we present a best-practice color list for you:
 
 # New Feature: The Controlable Shading
 
-Let's begin with one of the promotion sketch of our friend paintschainer *(paintschainer.preferred.tech)*. You can find this sketch here:
+Let's begin with one of the promotion sketch of our friend paintschainer *(paintschainer.preferred.tech)*. 
+
+You can find this sketch here:
 
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.png" height = "300" />
 
 Here is a overview of this feature:
 
 ![shading](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shading.png)
+
+Here we explain what happen. First of all, you just make a normal paintstransfer painting, like this:
+
+![screen0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/screen0.png)
