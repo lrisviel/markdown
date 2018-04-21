@@ -2,6 +2,8 @@
 
 **We are focusing on interactivity, possibility and creativity.**
 
+**Time will tell you what is important project and what is Machine learning bubble.**
+
 First of all, why not spend 5 minutes to try it yourself!
 
 http://paintstransfer.com
