@@ -182,7 +182,7 @@ Here is an example:
 
 ![violet](https://raw.githubusercontent.com/lrisviel/markdown/master/github/violet.png)
 
-My 《Deep Violet Fantasy》, a result of **Style Transfer** in PaintsTransferV3. Original Image is from [Here](https://raw.githubusercontent.com/lrisviel/markdown/master/github/or1.png). 
+My 《Deep Violet Fantasy》, a result of **Re-Colorization Mode** in PaintsTransferV3. Original Image is from [Here](https://raw.githubusercontent.com/lrisviel/markdown/master/github/or1.png). 
 
 Here is how I create it:
 
@@ -201,10 +201,6 @@ Results:
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st2.png)
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
-
-An violet saber....
-
-![saber](https://raw.githubusercontent.com/lrisviel/markdown/master/github/saber.png)
 
 # Extreme Hint Density Holder
 
