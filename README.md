@@ -340,9 +340,9 @@ Current model list of the 8 neural networks:
 
 **Danbooru2017 is highly recommended.**
 
-1. The recommended training dataset of illustrations is the 400k images from [nico-opendata](https://nico-opendata.jp/en/seigadata/index.html) and [Danbooru2017](http://www.gwern.net/Danbooru2017)
+1. The recommended training dataset of illustrations is the 400k images from [nico-opendata](https://nico-opendata.jp/en/seigadata/index.html) and [Danbooru2017](http://www.gwern.net/Danbooru2017).
 
-2. The recommended training sketches is from [sketchKeras](https://github.com/lllyasviel/sketchKeras)
+2. The recommended training sketches is from [sketchKeras](https://github.com/lllyasviel/sketchKeras).
 
 # Community
 
