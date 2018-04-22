@@ -268,28 +268,6 @@ Here is a comparison:
 
 ![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.png)
 
-# New Feature: The Palette Prediction for Lazy Users
-
-**NOTICE!! This feature is NOT stable currently !!**
-
-**Lazy** users are those who do not want to input any instructions. For those users, we updated our core models so as to make the results reasonable when there are no user hints.
-
-**All below results are achieved without human hints, or with minor detailed hints:**
-
-![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.png)
-
-![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.png)
-
-![w2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w2.png)
-
-![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.png)
-
-![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.png)
-
-![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.png)
-
-![w6](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w6.png)
-
 # Repaint Mode (Re-Colorization Mode)
 
 **NOTICE!! This feature is NOT stable currently !!**
@@ -320,6 +298,36 @@ Results:
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
 
+## A trick - the rerendering mode
+
+Sometimes your sketch may not combines of lines, or the sketch itself is a black-and-white illustration. 
+
+Then you may need this mode. For example, this sketch:
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/baws.png" height = "250" />
+
+And the results:
+
+![blac](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bawc.png)
+
+# New Feature: The Palette Prediction for Lazy Users
+
+**NOTICE!! This feature is NOT stable currently !!**
+
+**Lazy** users are those who do not want to input any instructions. For those users, we updated our core models so as to make the results reasonable when there are no user hints.
+
+**All below results are achieved without human hints, or with minor detailed hints:**
+
+![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.png)
+
+![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.png)
+
+![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.png)
+
+![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.png)
+
+![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.png)
+
 # Extreme Hint Density Holder
 
 Our new engine can hold as much as possible hints, without causing disordering or blurring. 
@@ -335,10 +343,6 @@ Here is some example when there are LOTS of user hints:
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e3.png)
 
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e4.png)
-
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e5.png)
-
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e6.png)
 
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.png)
 
