@@ -111,6 +111,8 @@ Contents below may include:
 
 **If you feel uncomfortable about these elements, you can stop reading here.**
 
+**You should stop reading if you are under 14 years old.**
+
 **You have been warned.**
 
 _
