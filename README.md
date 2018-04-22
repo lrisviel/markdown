@@ -100,7 +100,7 @@ Here is an example with reference image:
 
     We do NOT recommend you to paint in this way, because it is hard to find suitable reference images.
     
-# WARNING
+# SEX OR VIOLENCE WARNING
 
 Contents below may include:
 
@@ -111,6 +111,36 @@ Contents below may include:
 
 **If you feel uncomfortable about these elements, you can stop reading here.**
 
+**You have been warned.**
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
 _
 
 _
@@ -142,6 +172,9 @@ _
 _
 
 _
+
+_
+
 
 # New Feature: The Controlable Shading
 
