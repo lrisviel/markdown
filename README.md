@@ -99,6 +99,17 @@ Here is an example with reference image:
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/styleref.png" height = "300" />
 
     We do NOT recommend you to paint in this way, because it is hard to find suitable reference images.
+    
+# WARNING
+
+Contents below may include:
+
+    1. Arts with female body.
+    2. Arts with nude skin.
+    3. Asia style art of girls with short skirts, low bosom elements, lolita or others.
+    4. All virtual character are more than 18 years old.
+
+**If you feel uncomfortable about these elements, you can stop reading here.**
 
 # New Feature: The Controlable Shading
 
