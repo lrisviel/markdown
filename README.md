@@ -71,6 +71,8 @@ We provide some best-practice for you:
        instead of put 8 blue Color Anchors, You should put 3 blue ones, 2
        black ones, 2 white ones and 1 green one. Otherwise the result color
        will be ugly and unbalanced.
+       
+![right](https://raw.githubusercontent.com/lrisviel/markdown/master/github/right.png)
     
 In the same way, you can get many Shiki with different color, such as:
 
