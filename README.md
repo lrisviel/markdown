@@ -111,6 +111,38 @@ Contents below may include:
 
 **If you feel uncomfortable about these elements, you can stop reading here.**
 
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
 # New Feature: The Controlable Shading
 
 Let's begin with one of the promotion sketch of our friend paintschainer *(paintschainer.preferred.tech)*. 
