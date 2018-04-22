@@ -354,6 +354,12 @@ In the near future, we will **NOT** work on **Manga Colorization** because our f
 
 If you are interested in Manga Colorization, just do your research! 
 
+# How to defeat our baseline
+
+Currently, the baseline of sketch colorization is very high (PaintsChainerV1/V2/V3+PaintsTransferV2/V3), but still, there remains great improvement space. 
+
+For example, if you can train a model to colorize [this](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.png), we will greatly admire your work and appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is [here](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png).
+
 # Latest News
 
 2018.4.28 - PaintsTransfer-Euclid released.
