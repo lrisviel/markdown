@@ -366,6 +366,12 @@ We will greatly admire your work and appreciate it very much, because it remains
 
 ![bad](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png)
 
+In short, we want to see a method to do image to image translation like:
+
+![impos](https://raw.githubusercontent.com/lrisviel/markdown/master/github/impos.png)
+
+Great machine learning scientists! If you can do it, please do not hesitate to do it!
+
 # Latest News
 
 2018.4.28 - PaintsTransfer-Euclid released.
