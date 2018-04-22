@@ -310,24 +310,6 @@ And the results:
 
 ![blac](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bawc.png)
 
-# New Feature: The Palette Prediction for Lazy Users
-
-**NOTICE!! This feature is NOT stable currently !!**
-
-**Lazy** users are those who do not want to input any instructions. For those users, we updated our core models so as to make the results reasonable when there are no user hints.
-
-**All below results are achieved without human hints, or with minor detailed hints:**
-
-![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.png)
-
-![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.png)
-
-![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.png)
-
-![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.png)
-
-![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.png)
-
 # Extreme Hint Density Holder
 
 Our new engine can hold as much as possible hints, without causing disordering or blurring. 
@@ -345,6 +327,32 @@ Here is some example when there are LOTS of user hints:
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e4.png)
 
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.png)
+
+# The Palette Prediction for Lazy Users
+
+**NOTICE!! This feature is NOT stable currently !!**
+
+**Lazy** users are those who do not want to input any instructions. For those users, we updated our core models so as to make the results reasonable when there are no user hints.
+
+**All below results are achieved without human hints, or with minor detailed hints:**
+
+![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.png)
+
+![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.png)
+
+![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.png)
+
+![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.png)
+
+![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.png)
+
+# Manga Colorization
+
+Currently, our model is designed to colorize sketch, not manga.
+
+In the near future, we will **NOT** work on **Manga Colorization** because our friend PaintsChainer is working on it, and we do not want to see the research community of Manga Colorization be under great pressure.
+
+If you are interested in Manga Colorization, just do your research! 
 
 # Latest News
 
