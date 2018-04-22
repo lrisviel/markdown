@@ -266,6 +266,8 @@ Here is some example when there are LOTS of user hints:
 
 # Latest News
 
+2018.4.28 - PaintsTransfer-Euclid released.
+
 2018.4.16 - We changed our time schedule:
 
     1. PaintsTransfer V3 will have an online demo, and V2 demo will not be avaliable online anymore.
@@ -289,6 +291,12 @@ Here is some example when there are LOTS of user hints:
 2018.2.12 - PaintsTransfer 3.0 will be released in 2018.04.25-2018.05.15. We will use a totally non-residual very deep model.
 
 2018.2.3 - We added the *super accurate pencil*, and the original pencil tool is replaced by *brush*. The problem of over colorization in non-reference mode is fixed when you use the *super accurate pencil*, and the color spreading of *super accurate pencil* is limited to a relative small degree.
+
+2018.01.15 - PaintsTransfer V2.1 released.
+
+2017.12.29 - PaintsTransfer V2.0 released.
+
+2017.10.23 - PaintsTransfer released.
 
 # Launch Server
 
@@ -316,18 +324,20 @@ We use Google Drive to upload models:
     
 Current model list of the 8 neural networks:
 
-    base_head.net
-    dull_head.net
-    gate_head.net
-    line_head.net
-    base_neck.net
-    clear_tail.net
-    noise_tail.net
-    base_reader.net
+    baby.net
+    head.net
+    neck.net
+    tail.net
+    reader.net
+    girder.net
 
 # Training Datasets
 
-1. The recommended training dataset of illustrations is the 400k images from [nico-opendata](https://nico-opendata.jp/en/seigadata/index.html)
+**We do not use additional training data.**
+
+**Danbooru2017 is highly recommended.**
+
+1. The recommended training dataset of illustrations is the 400k images from [nico-opendata](https://nico-opendata.jp/en/seigadata/index.html) and [Danbooru2017](http://www.gwern.net/Danbooru2017)
 
 2. The recommended training sketches is from [sketchKeras](https://github.com/lllyasviel/sketchKeras)
 
