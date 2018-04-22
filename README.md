@@ -88,6 +88,16 @@ Ok, here we present a best-practice color list for you:
 
 ![display4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display4.png?t=233)
 
+**Then, can I use reference images just like PaintsTransferV2.0?**
+
+You can still upload your reference, but keep in mind that you need to drag the "stylizing rate" slider.
+
+Here is an example with reference image:
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/styleref.png" height = "300" />
+
+    We do NOT recommend you to paint in this way, because it is hard to find suitable reference images.
+
 # New Feature: The Controlable Shading
 
 Let's begin with one of the promotion sketch of our friend paintschainer *(paintschainer.preferred.tech)*. 
