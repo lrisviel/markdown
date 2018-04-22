@@ -358,7 +358,13 @@ If you are interested in Manga Colorization, just do your research!
 
 Currently, the baseline of sketch colorization is very high (PaintsChainerV1/V2/V3+PaintsTransferV2/V3), but still, there remains great improvement space. 
 
-For example, if you can train a model to colorize [this](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.png), we will greatly admire your work and appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is [here](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png).
+For example, if you can train a model to colorize this:
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.png" height = "512" />
+
+We will greatly admire your work and appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is here:
+
+![bad](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png)
 
 # Latest News
 
