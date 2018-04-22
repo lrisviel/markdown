@@ -310,9 +310,12 @@ Here is some example when there are LOTS of user hints:
     pip install opencv-python
     pip install scikit-image
     git clone https://github.com/lllyasviel/style2paints.git
-    (Then you need to download all models from our Google Drive and put these into 'server' folder.)
-    cd style2paints/server
+    
+Then you need to download all models from our Google Drive and put these into 'server' folder.
+    
+    cd style2paints/server
     python server.py
+
 
 # Models
 
