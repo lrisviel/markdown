@@ -44,6 +44,34 @@ Here is a gif version of the process:
 
 ![gif1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/gif1.gif)
 
+## All you need to know:
+
+We provide some best-practice for you:
+
+**If you are an artist, we highly recommend you to read these key points!!**
+
+    1. When color anchors are linked, it means that colors on the line may be 
+       fused in the final result.
+    
+    2. Each color anchor has a range circle, it means areas in the cicles may 
+       be infuenced. 
+    
+    3. Color Anchors does (!!!!!!!!!)NOT(!!!!!!!!!) influence the final color, 
+       it only influence the color style of the result.
+       Thus, DO NOT ONLY use Color Anchors.
+       
+    4. Accurate Points will only influence detailed, small, minor color area.
+       Thus, DO NOT ONLY use Accurate Points.
+       
+    5. In most cases, you can put some Accurate Points around a Color Anchor,
+       with same color. But for advanced usage, you can put Accurate Points
+       around anchors with different colors.
+       
+    6. You should NOT put Color Anchors with all same color. For example, 
+       instead of put 8 blue Color Anchors, You should put 3 blue ones, 2
+       black ones, 2 white ones and 1 green one. Otherwise the result color
+       will be ugly and unbalanced.
+    
 In the same way, you can get many Shiki with different color, such as:
 
 ![s1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh1.png)
