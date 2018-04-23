@@ -248,7 +248,7 @@ And some other similar results:
 
 Because our software is designed for professional use, you need to know what is skin color first. It is easy:
 
-![color3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/color3.png)
+![color3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/color3.png?t=987)
 
 And then, you need to try some of these to get your favorite one. Do not be lazy.
 
