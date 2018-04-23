@@ -252,6 +252,10 @@ Because our software is designed for professional use, you need to know what is 
 
 And then, you need to try some of these to get your favorite one. Do not be lazy.
 
+Here is an Ayase for you to practice:
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/huili.png" height = "360" />
+
 Here is a wrong example:
 
 Here is a right example:
