@@ -234,9 +234,15 @@ And some other similar results:
 
 ![sk1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk1.png)
 
-![sk2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.png)
-
 ![sk3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk3.png)
+
+[Another NSFW result](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.png)
+
+## Our baseline sample of skin rendering
+
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl2.png" height = "360" />
+
+![sbl1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl1.png)
 
 # New Feature: The Outline Emphasizer
 
