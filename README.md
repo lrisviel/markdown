@@ -244,6 +244,18 @@ And some other similar results:
 
 ![sbl1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl1.png)
 
+## How can I get these skin rendering on my own sketch?
+
+Because our software is designed for professional use, you need to know what is skin color first. It is easy:
+
+![color3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/color3.png)
+
+And then, you need to try some of these to get your favorite one. Do not be lazy.
+
+Here is a wrong example:
+
+Here is a right example:
+
 # New Feature: The Outline Emphasizer
 
 Sometimes you may want to emphasize the lines so as to achieve a natural painting. Then we have developed the standalone **Outline Emphasizer**:
