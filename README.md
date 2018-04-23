@@ -288,13 +288,11 @@ Some other examples:
 
 Origins:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.png" height = "180" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.png?t=55" height = "180" />
 
 Results:
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st1.png)
-
-![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st2.png)
 
 ![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
 
@@ -369,8 +367,6 @@ We will greatly admire your work and appreciate it very much, because it remains
 In short, we want to see a method to do image to image translation like:
 
 ![impos](https://raw.githubusercontent.com/lrisviel/markdown/master/github/impos.png)
-
-Great machine learning scientists! If you can do it, please do not hesitate to do it!
 
 # Latest News
 
