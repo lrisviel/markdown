@@ -254,7 +254,7 @@ And then, you need to try some of these to get your favorite one. Do not be lazy
 
 Here is an Ayase for you to practice:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/huili.png?k=765" height = "360" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/huili.jpg" height = "360" />
 
 ![skinright](https://raw.githubusercontent.com/lrisviel/markdown/master/github/skinright.png)
 
