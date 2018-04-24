@@ -225,6 +225,16 @@ Here is a comparison:
 
 ![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.jpg)
 
+# Let us have a step by step practice!
+
+Here is a Minami for you:
+
+![xn](https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg)
+
+## First step: upload
+
+balabala
+
 # Repaint Mode (Re-Colorization Mode)
 
 **NOTICE!! This feature is NOT stable currently !!**
