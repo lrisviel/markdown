@@ -265,6 +265,14 @@ And the results:
 
 ![blac](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bawc.png)
 
+# Create special texture
+
+**NOTICE!! This feature is NOT stable currently !!**
+
+You can create some special texture like:
+
+![spt](https://raw.githubusercontent.com/lrisviel/markdown/master/github/spt.png)
+
 # Extreme Hint Density Holder
 
 Our new engine can hold as much as possible hints, without causing disordering or blurring. 
