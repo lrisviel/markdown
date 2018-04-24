@@ -303,11 +303,11 @@ But if you can spend your extra minutes, making some extra efforts, things may b
 
 ![nafter](https://raw.githubusercontent.com/lrisviel/markdown/master/github/n2after.png)
 
-**One of the main advantage of PaintsTransfer is: no matter how much hint points you put, the results will never be blured because of this.**
+One of the main advantage of PaintsTransfer is: no matter how much hint points you put, the results will never be blured because of this.
 
 **Then you may ask: OMG! Then I need to add sooooooo many points? It is so difficult and not practical at all!!**
 
-**In fact, though there are many points, most of these points are just of same color. You only need to select one color and then click, click, click, click, click, click....　It is very easy! If you have actually tried, you will find that it do not require any art knowledge. **
+**In fact, though there are many points, most of these points are just of same color. You only need to select one color and then click, click, click, click, click, click....　It is very easy! If you have actually tried, you will find that it do not require any art knowledge.**
 
 # The Palette Prediction for Lazy Users
 
