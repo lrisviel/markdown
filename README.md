@@ -229,7 +229,7 @@ Here is a comparison:
 
 Here is a Minami for you:
 
-![xn](https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg)
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg" height = "300" />
 
 ## First step: upload
 
