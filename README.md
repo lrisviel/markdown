@@ -16,7 +16,7 @@ The AI can create its own color style to paint on a sketch.
 
 The AI can transfer illustrations' style.
 
-![web_preview](https://raw.githubusercontent.com/lrisviel/markdown/master/github/0.png)
+![web_preview](https://raw.githubusercontent.com/lrisviel/markdown/master/github/0.jpg)
 
 ## SEX OR VIOLENCE WARNING
 
@@ -45,15 +45,15 @@ The new tool, color anchor, enable you to control the color of your painting wit
 
 After this step, you should get a color draft like this:
 
-![display1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display1.png)
+![display1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display1.jpg)
 
 Then, after you finishing your color draft, you should shift to your **Accurate Point** tool. 
 
-![display2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display2.png?t=233)
+![display2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display2.jpg?t=233)
 
 Then, you add hint colors and get the final result, like this:
 
-![display3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display3.png)
+![display3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display3.jpg)
 
 Here is a gif version of the process:
 
@@ -87,15 +87,15 @@ We provide some best-practice for you:
        black ones, 2 white ones and 1 green one. Otherwise the result color
        will be ugly and unbalanced.
        
-![right](https://raw.githubusercontent.com/lrisviel/markdown/master/github/right.png)
+![right](https://raw.githubusercontent.com/lrisviel/markdown/master/github/right.jpg)
     
 In the same way, you can get many Shiki with different color, such as:
 
-![s1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh1.png)
+![s1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh1.jpg)
 
-![s2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh2.png)
+![s2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh2.jpg)
 
-![s3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh3.png)
+![s3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sh3.jpg)
 
 After reading these, you may ask: 
 
@@ -103,7 +103,7 @@ After reading these, you may ask:
 
 Ok, here we present a best-practice color list for you:
 
-![display4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display4.png?t=233)
+![display4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/display4.jpg?t=233)
 
 **Then, can I use reference images just like PaintsTransferV2.0?**
 
@@ -111,7 +111,7 @@ You can still upload your reference, but keep in mind that you need to drag the 
 
 Here is an example with reference image:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/styleref.png" height = "300" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/styleref.jpg" height = "300" />
 
     We do NOT recommend you to paint in this way, because it is hard to find suitable reference images.
 
@@ -121,71 +121,71 @@ Let's begin with one of the promotion sketch of our friend paintschainer *(paint
 
 You can find this sketch here:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.png" height = "300" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.jpg" height = "300" />
 
 Here is a overview of this feature:
 
-![shading](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shading.png)
+![shading](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shading.jpg)
 
 Here we explain what happen. First of all, you just make a normal paintstransfer painting, like this:
 
-![screen0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/screen0.png)
+![screen0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/screen0.jpg)
 
 Then we select colors for shadow.
 
-![colorshadow](https://raw.githubusercontent.com/lrisviel/markdown/master/github/colorshadow.png)
+![colorshadow](https://raw.githubusercontent.com/lrisviel/markdown/master/github/colorshadow.jpg)
 
 Then you use these four step to get the shadow.
 
-![shadowhints](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadowhints.png)
+![shadowhints](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadowhints.jpg)
 
-![sa0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sa0.png)
+![sa0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sa0.jpg)
 
 We can also change the dress into black, and use similar method to reach a highlight shading:
 
-![shadow2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadow2.png)
+![shadow2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/shadow2.jpg)
 
-![ssa](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ssa.png)
+![ssa](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ssa.jpg)
 
 Some other similar examples:
 
-![se0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se0.png)
+![se0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se0.jpg)
 
-![se1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se1.png)
+![se1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/se1.jpg)
 
 # New Feature: The New Skin Engine
 
 Let us begin with a sketch from google, and this sketch has relative large skin area:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sketch.original.png" height = "300" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sketch.original.jpg" height = "300" />
 
 And here is the result from **PaintsChainer** :
 
-![pc](https://raw.githubusercontent.com/lrisviel/markdown/master/github/pc.png)
+![pc](https://raw.githubusercontent.com/lrisviel/markdown/master/github/pc.jpg)
 
 As we can see, the skin rendering is very hard for AI. But we have a new Skin Engine, and here is our result.
 
-![sk0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk0.png)
+![sk0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk0.jpg)
 
 And some other similar results:
 
-![sk1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk1.png)
+![sk1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk1.jpg)
 
-![sk3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk3.png)
+![sk3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk3.jpg)
 
-[Another NSFW result](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.png)
+[Another NSFW result](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sk2.jpg)
 
 ## Our baseline sample of skin rendering
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl2.png" height = "360" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl2.jpg" height = "360" />
 
-![sbl1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl1.png)
+![sbl1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl1.jpg)
 
 ## How can I get these skin rendering on my own sketch?
 
 Because our software is designed for professional use, you need to know what is skin color first. It is easy:
 
-![color3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/color3.png?t=987)
+![color3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/color3.jpg?t=987)
 
 And then, you need to try some of these to get your favorite one. Do not be lazy.
 
@@ -193,21 +193,21 @@ Here is an Ayase for you to practice:
 
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/huili.jpg" height = "360" />
 
-![skinright](https://raw.githubusercontent.com/lrisviel/markdown/master/github/skinright.png)
+![skinright](https://raw.githubusercontent.com/lrisviel/markdown/master/github/skinright.jpg)
 
 # New Feature: The Outline Emphasizer
 
 Sometimes you may want to emphasize the lines so as to achieve a natural painting. Then we have developed the standalone **Outline Emphasizer**:
 
-![ous](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ous.png)
+![ous](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ous.jpg)
 
 Let begin with a sample of sakura:
 
-![sakura](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura.png)
+![sakura](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura.jpg)
 
 Then, we enable the **Outline Emphasizer** and we can get this result:
 
-![sakura2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura2.png)
+![sakura2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sakura2.jpg)
 
 Here is a comparison:
 
@@ -215,15 +215,15 @@ Here is a comparison:
 
 Another example with **Outline Emphasizer**:
 
-![ane0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane0.png)
+![ane0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane0.jpg)
 
 Without **Outline Emphasizer**:
 
-![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.png)
+![ane1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane1.jpg)
 
 Here is a comparison:
 
-![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.png)
+![cp2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/cp2.jpg)
 
 # Repaint Mode (Re-Colorization Mode)
 
@@ -233,25 +233,25 @@ If you upload a finished painting and shift to the re-colorization mode, the sof
 
 Here is an example:
 
-![violet](https://raw.githubusercontent.com/lrisviel/markdown/master/github/violet.png)
+![violet](https://raw.githubusercontent.com/lrisviel/markdown/master/github/violet.jpg)
 
-My 《Deep Violet Fantasy》, a result of **Re-Colorization Mode** in PaintsTransferV3. Original Image is from [Here](https://raw.githubusercontent.com/lrisviel/markdown/master/github/or1.png). 
+My 《Deep Violet Fantasy》, a result of **Re-Colorization Mode** in PaintsTransferV3. Original Image is from [Here](https://raw.githubusercontent.com/lrisviel/markdown/master/github/or1.jpg). 
 
 Here is how I create it:
 
-![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st0.png)
+![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st0.jpg)
 
 Some other examples:
 
 Origins:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.png?t=55" height = "180" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.jpg?t=55" height = "180" />
 
 Results:
 
-![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st1.png)
+![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st1.jpg)
 
-![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.png)
+![st0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/st3.jpg)
 
 ## A trick - the rerendering mode
 
@@ -259,11 +259,11 @@ Sometimes your sketch may not combines of lines, or the sketch itself is a black
 
 Then you may need this mode. For example, this sketch:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/baws.png" height = "250" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/baws.jpg" height = "250" />
 
 And the results:
 
-![blac](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bawc.png)
+![blac](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bawc.jpg)
 
 # Create special texture
 
@@ -271,7 +271,7 @@ And the results:
 
 You can create some special texture like:
 
-![spt](https://raw.githubusercontent.com/lrisviel/markdown/master/github/spt.png)
+![spt](https://raw.githubusercontent.com/lrisviel/markdown/master/github/spt.jpg)
 
 # Extreme Hint Density Holder
 
@@ -279,17 +279,17 @@ Our new engine can hold as much as possible hints, without causing disordering o
 
 Here is some example when there are LOTS of user hints:
 
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e0.png)
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e0.jpg)
 
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e1.png)
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e1.jpg)
 
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e2.png)
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e2.jpg)
 
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e3.png)
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e3.jpg)
 
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e4.png)
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e4.jpg)
 
-![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.png)
+![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.jpg)
 
 ## Whatever you get, never give up your painting!
 
@@ -301,15 +301,15 @@ In our study, we find that more than 70% bad paintings have potential to become 
 
 For example, this painting looks not good at all, when we finish the color anchor:
 
-![nbefore](https://raw.githubusercontent.com/lrisviel/markdown/master/github/nbefore.png)
+![nbefore](https://raw.githubusercontent.com/lrisviel/markdown/master/github/nbefore.jpg)
 
-![nbefore](https://raw.githubusercontent.com/lrisviel/markdown/master/github/n2before.png)
+![nbefore](https://raw.githubusercontent.com/lrisviel/markdown/master/github/n2before.jpg)
 
 But if you can spend your extra minutes, making some extra efforts, things may be a bit better:
 
-![nafter](https://raw.githubusercontent.com/lrisviel/markdown/master/github/nafter.png)
+![nafter](https://raw.githubusercontent.com/lrisviel/markdown/master/github/nafter.jpg)
 
-![nafter](https://raw.githubusercontent.com/lrisviel/markdown/master/github/n2after.png)
+![nafter](https://raw.githubusercontent.com/lrisviel/markdown/master/github/n2after.jpg)
 
 One of the main advantage of PaintsTransfer is: no matter how much hint points you put, the results will never be blured because of this.
 
@@ -325,15 +325,15 @@ One of the main advantage of PaintsTransfer is: no matter how much hint points y
 
 **All below results are achieved without human hints, or with minor detailed hints:**
 
-![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.png)
+![w0](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w0.jpg)
 
-![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.png)
+![w1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w1.jpg)
 
-![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.png)
+![w3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w3.jpg)
 
-![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.png)
+![w4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w4.jpg)
 
-![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.png)
+![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.jpg)
 
 # Manga Colorization
 
@@ -349,15 +349,15 @@ Currently, the baseline of sketch colorization is very high (PaintsChainerV1/V2/
 
 For example, if someone can train a model to colorize this:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.png" height = "512" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.jpg" height = "512" />
 
 Then we will appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is here:
 
-![bad](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png)
+![bad](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.jpg)
 
 Or we want to see a method to do image to image translation like this:
 
-![impos](https://raw.githubusercontent.com/lrisviel/markdown/master/github/impos.png)
+![impos](https://raw.githubusercontent.com/lrisviel/markdown/master/github/impos.jpg)
 
 # Latest News
 
