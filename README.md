@@ -313,6 +313,16 @@ Here is some example when there are LOTS of user hints:
 
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.png)
 
+# Whatever you get, never give up your painting!
+
+In many cases, you may get a not very good result, with disordered color or ugly compositions.
+
+But keep in mind that you should not give up this painting! 
+
+In our study, we find that more than 70% bad paintings have potential to become fine arts, and they just need your extra 5 minutes to put some hints!!
+
+For example, this painting looks not good at all, when we finish the color anchor:
+
 # The Palette Prediction for Lazy Users
 
 **NOTICE!! This feature is NOT stable currently !!**
@@ -339,19 +349,19 @@ In the near future, we will **NOT** work on **Manga Colorization** because our f
 
 If you are interested in Manga Colorization, just do your research! 
 
-# How to defeat our baseline
+# Next Step
 
 Currently, the baseline of sketch colorization is very high (PaintsChainerV1/V2/V3+PaintsTransferV2/V3), but still, there remains great improvement space. 
 
-For example, if you can train a model to colorize this:
+For example, if someone can train a model to colorize this:
 
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.png" height = "512" />
 
-We will greatly admire your work and appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is here:
+Then we will appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is here:
 
 ![bad](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bad.png)
 
-In short, we want to see a method to do image to image translation like:
+Or we want to see a method to do image to image translation like this:
 
 ![impos](https://raw.githubusercontent.com/lrisviel/markdown/master/github/impos.png)
 
