@@ -18,6 +18,21 @@ The AI can transfer illustrations' style.
 
 ![web_preview](https://raw.githubusercontent.com/lrisviel/markdown/master/github/0.png)
 
+## SEX OR VIOLENCE WARNING
+
+Contents below may include:
+
+    1. Arts with female body.
+    2. Arts with nude skin.
+    3. Asia style arts of girls with short skirts, low bosom elements, lolita or others.
+    4. All virtual characters are more than 18 years old.
+
+**If you feel uncomfortable about these elements, you can stop reading here.**
+
+**You should stop reading if you are under 14 years old.**
+
+**You have been warned.**
+
 # New Feature: The Geometric Color Anchor
 
 **This github page contains many gif and png images, and it is a better choice to wait your browser before reading it.**
@@ -99,51 +114,6 @@ Here is an example with reference image:
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/styleref.png" height = "300" />
 
     We do NOT recommend you to paint in this way, because it is hard to find suitable reference images.
-    
-# SEX OR VIOLENCE WARNING
-
-Contents below may include:
-
-    1. Arts with female body.
-    2. Arts with nude skin.
-    3. Asia style arts of girls with short skirts, low bosom elements, lolita or others.
-    4. All virtual characters are more than 18 years old.
-
-**If you feel uncomfortable about these elements, you can stop reading here.**
-
-**You should stop reading if you are under 14 years old.**
-
-**You have been warned.**
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
 
 # New Feature: The Controlable Shading
 
