@@ -293,6 +293,14 @@ In our study, we find that more than 70% bad paintings have potential to become 
 
 For example, this painting looks not good at all, when we finish the color anchor:
 
+![nbefore](https://raw.githubusercontent.com/lrisviel/markdown/master/github/nbefore.png)
+
+But if you can spend your extra minutes, making some extra efforts, things may be a bit better:
+
+![nafter](https://raw.githubusercontent.com/lrisviel/markdown/master/github/nafter.png)
+
+**One of the main advantage of PaintsTransfer is: no matter how much hint points you put, the results will never be blured because of this.**
+
 # The Palette Prediction for Lazy Users
 
 **NOTICE!! This feature is NOT stable currently !!**
