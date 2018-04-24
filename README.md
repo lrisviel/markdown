@@ -283,7 +283,7 @@ Here is some example when there are LOTS of user hints:
 
 ![hss](https://raw.githubusercontent.com/lrisviel/markdown/master/github/e7.png)
 
-# Whatever you get, never give up your painting!
+## Whatever you get, never give up your painting!
 
 In many cases, you may get a not very good result, with disordered color or ugly compositions.
 
