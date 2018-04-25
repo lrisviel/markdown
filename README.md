@@ -231,6 +231,14 @@ Here is a Minami for you:
 
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg" height = "300" />
 
+![as1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as1.jpg)
+
+![as2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as2.jpg)
+
+![as3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as3.jpg)
+
+![as4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as4.jpg)
+
 ## First step: upload
 
 balabala
