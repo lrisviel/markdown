@@ -1,6 +1,6 @@
 # Welcome to PaintsTransfer-Euclid !
 
-**We focus on interactivity, possibility and creativity. **
+**We focus on interactivity, possibility and creativity.**
 
 **Time will tell you what is important, and what is not important.**
 
