@@ -1,6 +1,6 @@
 # Welcome to PaintsTransfer-Euclid !
 
-**Can you colorize line art?**
+**Can you colorize line arts?**
 
 **If yes, you will do it faster if you can read this page.**
 
