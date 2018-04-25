@@ -1,10 +1,10 @@
 # Welcome to PaintsTransfer-Euclid !
 
-**Are you an artist? Can you paint?**
+**Can you colorize line art?**
 
-**If yes, you will paint faster if you can read this page.**
+**If yes, you will do it faster if you can read this page.**
 
-**If no, you will become an artist and you will be able to paint if you can read this page.**
+**If no, you will be able to do it if you can read this page.**
 
 First of all, why not spend 5 minutes to try it yourself!
 
