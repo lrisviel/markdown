@@ -231,17 +231,17 @@ Here is a Minami for you:
 
 <img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg" height = "300" />
 
-![as1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as1.jpg)
+First of all, you just upload this sketch to the APP and click one of the right arrows to get the automatic result, like this:
 
-![as2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as2.jpg)
+![as1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as1.jpg?t=1)
 
-![as3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as3.jpg)
+Then, you may change the overall color. In my case, I use 7 color anchors, like this:
 
-![as4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as4.jpg)
+![as2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as2.jpg?t=1)
 
-## First step: upload
+![as3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as3.jpg?t=1)
 
-balabala
+![as4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as4.jpg?t=1)
 
 # Repaint Mode (Re-Colorization Mode)
 
