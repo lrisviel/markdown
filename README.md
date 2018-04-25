@@ -243,7 +243,37 @@ Then, you see that color anchors will **NOT** directly influence the final color
 
 Then, we come to the important step: We need to make sure of these color. We need to tell the neural network what we really need.
 
+First of all, we make sure of the pink wings:
+
+![ds1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds1.jpg?t=1)
+
+Is it easy? We only add some accurate pink points, and this will tell the AI that you need a pink color block. Then we continue with the face and hair:
+
+![ds2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds2.jpg?t=1)
+
+Still, it is very easy. We add gray points on hair, and white points on backgrounds. Then, we continue with the skirt:
+
+![ds3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds3.jpg?t=1)
+
+OK. Still very easy, just put white color on the skirt. This is important because if you do not do that, the AI will not know you need a white skirt. You need to use these points to tell the AI that "you are right", otherwise the AI will be confused and it will hesitate to use these colors.
+
+![ds5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds5.jpg?t=1)
+
+OK. The shose and leg color are checked. Then we add color to the skin:
+
+![ds6](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds6.jpg?t=1)
+
+And we make some final decoration and get this:
+
+![ds7](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds7.jpg?t=1)
+
+As you can see, this canvas seems very complex, but it is very easy to create if you can follow these steps.
+
+And here is the result:
+
 ![as3](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as3.jpg?t=1)
+
+Another similar result in the same way:
 
 ![as4](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as4.jpg?t=1)
 
