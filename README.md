@@ -261,11 +261,11 @@ OK. Still very easy, just put white color on the skirt. This is important becaus
 
 OK. The shose and leg color are checked. Then we add color to the skin:
 
-![ds6](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds6.jpg?t=1)
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds6.jpg" height = "500" />
 
 And we make some final decoration and get this:
 
-![ds7](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds7.jpg?t=1)
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds7.jpg" height = "500" />
 
 As you can see, this canvas seems very complex, but it is very easy to create if you can follow these steps.
 
