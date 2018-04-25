@@ -1,8 +1,10 @@
 # Welcome to PaintsTransfer-Euclid !
 
-We focus on interactivity, possibility and creativity.
+**Are you an artist? Can you paint?**
 
-**Time will tell you what is important, and what is not important at all.**
+**If yes, you will paint faster if you can read this page.**
+
+**If no, you will become an artist and you will be able to paint if you can read this page.**
 
 First of all, why not spend 5 minutes to try it yourself!
 
@@ -17,6 +19,8 @@ The AI can paint on a sketch according to a given specific color style.
 The AI can create its own color style to paint on a sketch.
 
 The AI can transfer illustrations' style.
+
+We focus on interactivity, possibility and creativity.
 
 ![web_preview](https://raw.githubusercontent.com/lrisviel/markdown/master/github/0.jpg)
 
