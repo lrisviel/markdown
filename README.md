@@ -245,7 +245,9 @@ Then, you may change the overall color. In my case, I use 7 color anchors, like 
 
 ![as2](https://raw.githubusercontent.com/lrisviel/markdown/master/github/as2.jpg?t=1)
 
-Then, you see that color anchors will **NOT** directly influence the final color. We only use color anchor to suggest the neural network to **create a color atomosphere**. In the image above, I put two pink color anchors on the wings and one color anchor on the shose, but these objects are still white in final results.
+Then, you see that color anchors will **NOT** directly influence the final color. We only use color anchor to suggest the neural network to **create a color atomosphere**. In the image above, I put two pink color anchors on the wings and one color anchor on the shose, but these objects are still white in final results. Here is an example:
+
+![ane](https://raw.githubusercontent.com/lrisviel/markdown/master/github/ane.jpg?t=1)
 
 Then, we come to the important step: We need to make sure of these color. We need to tell the neural network what we really need.
 
