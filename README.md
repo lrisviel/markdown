@@ -323,6 +323,12 @@ And the results:
 
 ![blac](https://raw.githubusercontent.com/lrisviel/markdown/master/github/bawc.jpg)
 
+## A trick - get the pure sketch from sketch
+
+Sometimes your sketch may not combines of lines, and then you can use **Re-Colorization Mode** option to get the pure sketch.
+
+![spt](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sksk.jpg)
+
 # Create special texture
 
 **NOTICE!! This feature is NOT stable currently !!**
