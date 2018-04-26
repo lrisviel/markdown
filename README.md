@@ -399,6 +399,14 @@ One of the main advantage of PaintsTransfer is: no matter how much hint points y
 
 ![w5](https://raw.githubusercontent.com/lrisviel/markdown/master/github/w5.jpg)
 
+# What our AI like and what our AI dislike
+
+Our AI has its own hobbies. You can get good results if the AI *like* your sketches. But if our AI *dislike* your sketch, you would better go to paintschainer (http://paintschainer.preferred.tech).
+
+Here is a list:
+
+
+
 # Manga Colorization
 
 Currently, our model is designed to colorize sketch, not manga.
