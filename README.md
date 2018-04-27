@@ -469,6 +469,8 @@ Or we want to see a method to do image to image translation like this:
 
 # Launch Server
 
+**All codes will be avaliable in several days.**
+
 *you need a python 3.5/3.6 GPU environment with cuda.*
 
     pip install tensorflow_gpu
@@ -494,7 +496,7 @@ We use Google Drive to upload models:
 
     https://drive.google.com/open?id=1fWi4wmNj-xr-nCzuWMsN2rcm0249_Aem
     
-Current model list of the 8 neural networks:
+Current model list of the 6 neural networks:
 
     baby.net
     head.net
